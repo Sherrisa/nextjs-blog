@@ -17,7 +17,7 @@ export default function Home() {
         </p>
       </section>
       <h2>
-        <Link href="/ana">What I made today!</Link>
+        <Link href="/aug23">What I made today!</Link>
       </h2>
     </Layout>
   );
